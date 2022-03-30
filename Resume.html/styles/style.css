@@ -1,0 +1,17 @@
+@import url("banner.css");
+@import url("buttons.css");
+@import url("card.css");
+@import url("footer.css");
+
+body {
+	margin: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container {
+	width: 75%;
+	margin: 0 auto;
+}
